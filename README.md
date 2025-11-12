@@ -35,7 +35,7 @@ Tela simples de **cadastro de usuários** com integração a uma API RESTful uti
 ### Tela de cadastro
 ![Tela de cadastro](./Prisma2.png)
 
-### Banco de cadatro dos Clientes
+### Banco de cadastro dos Clientes
 ![Erro de e-mail duplicado](./Prisma.png)
    
 
