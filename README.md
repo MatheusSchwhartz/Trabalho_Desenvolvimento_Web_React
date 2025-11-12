@@ -30,6 +30,13 @@ Tela simples de **cadastro de usuários** com integração a uma API RESTful uti
    cd projeto-react-dev
    npm run dev
 
+## 🖼️ Capturas de tela
+
+### Tela de cadastro
+![Tela de cadastro](./Prisma2.png)
+
+### Banco de cadatro dos Clientes
+![Erro de e-mail duplicado](./Prisma.png)
    
 
 
